@@ -44,6 +44,6 @@ If you reference this work, please cite it using the Zenodo DOI:
   year         = 2026,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.24250739},
-  url          = {https://doi.org}
+  url = {doi.org/10.5281/zenodo.24250739}
 }
 ```
